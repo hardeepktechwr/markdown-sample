@@ -1,7 +1,6 @@
    
 ## REPORTER AGENT PATCH March 2017 Release
---   
-Please read this document before installing the patch.   --
+--   Please read this document before installing the patch.   --
 
 * For successful installation of REPORTER AGENT Patch, you should have Administrative rights on the Operating System.
 
